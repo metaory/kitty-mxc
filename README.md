@@ -1,4 +1,4 @@
-# tmux-mxc
+# kitty-mxc
 <p align="center">
   <img src="./assets/2022-01-29-163127_318x127_scrot.png">
 </p>
