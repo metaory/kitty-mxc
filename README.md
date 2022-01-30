@@ -11,9 +11,6 @@ dark kitty theme, with random colors from [mxcolr](https://github.com/metaory/mx
 <p align="center">
   <img src="./assets/2022-01-30-140536_2560x1080_scrot.png">
 </p>
-<p align="center">
-  <img src="./assets/2022-01-30-140551_2560x1080_scrot.png">
-</p>
 
 ![mxcolr](./assets/gifcast_220130114850.gif)
 
