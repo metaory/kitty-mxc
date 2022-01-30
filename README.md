@@ -3,7 +3,7 @@
   <img src="./assets/2022-01-29-163127_318x127_scrot.png">
 </p>
 
-dark kitty theme, with random colors from mxcolr project
+dark kitty theme, with random colors from [mxcolr](https://github.com/metaory/mxcolr) project
 
 <p align="center">
   <img src="./assets/2022-01-30-140321_1168x804_scrot.png">
